@@ -1,2 +1,2 @@
-# sj-wezterm-config
+wezterm-config
 first time try config
